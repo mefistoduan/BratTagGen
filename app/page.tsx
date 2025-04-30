@@ -71,7 +71,7 @@ export default function Home() {
   return (
     <div className="min-h-screen p-2 flex flex-col items-center justify-center bg-gray-50">
       <h3 className="text-2xl font-bold mb-1 text-black">Brat标注工具站</h3>
-      <h3 className="text-2xl font-bold mb-1 text-black">Brat Tag Gen</h3>
+      <h3 className="text-2xl font-bold mb-1 text-black">Brat Tag Gen workflow</h3>
       <div className="mb-1 w-full max-w-md">
         <input 
           type="text" 
