@@ -1,0 +1,10 @@
+{
+  "Index": {
+    "title": "Brat标签生成器",
+    "description": "生成并下载您的自定义Brat标签",
+    "textInputLabel": "输入文字",
+    "colorPickerLabel": "选择基础色",
+    "generateButton": "生成",
+    "downloadButton": "下载"
+  }
+}

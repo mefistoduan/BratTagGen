@@ -1,0 +1,9 @@
+{
+  "Index": {
+    "title": "Generador de Etiquetas Brat",
+    "description": "Crea etiquetas Brat personalizadas con tu texto y colores",
+    "textInputLabel": "Ingresa tu texto",
+    "colorPickerLabel": "Elige un color",
+    "downloadButton": "Descargar Etiqueta"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Index": {
+    "title": "Brat Tag Generator",
+    "description": "Generate and download your custom Brat tag",
+    "textInputLabel": "Enter your text",
+    "colorPickerLabel": "Choose base color",
+    "generateButton": "Generate",
+    "downloadButton": "Download"
+  }
+}
