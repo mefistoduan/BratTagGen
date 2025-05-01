@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[7555,[],""]
+3:I[1295,[],""]
+4:I[894,[],"ClientPageRoot"]
+5:I[4744,["974","static/chunks/app/page-22df09e259e757ba.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/css/5558cfa41a967bdb.css","style"]
+0:{"P":null,"b":"72uL2JsCZR_w4il0Czup_","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5558cfa41a967bdb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_5cfdac __variable_9a8899 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex flex-col items-center justify-center bg-gray-50","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 text-black","children":"404 - Page Not Found..."}],["$","p",null,{"className":"text-gray-600 mb-4","children":"The page you are looking for does not exist."}],["$","a",null,{"href":"/","className":"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded","children":"Return Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L4",null,{"Component":"$5","searchParams":{},"params":{},"promises":["$@6","$@7"]}],["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","5iDiUiHD0Utm-jLdRLibd",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+6:{}
+7:{}
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Brat标注工具站 | Brat Tag Gen"}],["$","meta","1",{"name":"description","content":"免费Brat专辑封面制作器｜模仿Charli XCX标志性美学，输入文字自动生成荧光绿+小写字体设计，支持PNG/SVG格式导出，适用于Instagram/TikTok视觉包装，设计师与粉丝必备的在线图片工具"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}
